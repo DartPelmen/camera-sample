@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutSamples</string>
+    <string name="text">"CoordinatorLayout – разметка, концептуальная задача которой заключается в организации взаимодействия между дочерними элементами. Внутри CoordinatorLayout помещаются элементы, которые должны оказывать какое-либо воздействие друг на друга при командах пользователя. Одним из частых применений CoordinatorLayout является организация взаимодействия AppbatLayout и других дочерних разметок. AppbarLayout в данном случае отвечает за расположение элементов в заголовочной части активности, и должна изменять свое состояние (как правило, сворачиваться) и давать возможность другим дочерним активностям представлять свое содержимое. Другим частым применением CoordinatorLayout является "</string>
+    <string name="loginHint">login</string>
+    <string name="passwordHint">password</string>
+    <string name="signInButtonText">SIGN IN</string>
+</resources>
